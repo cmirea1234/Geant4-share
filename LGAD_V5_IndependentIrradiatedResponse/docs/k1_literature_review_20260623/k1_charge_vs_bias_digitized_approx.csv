@@ -1,0 +1,6 @@
+sensor,state,temperature_K,bias_V,charge_fC,value_type,source
+UFSD-K1,100pct_EoL,253,450,3.8,figure_digitized_approx,thesis_figure_5_4
+UFSD-K1,100pct_EoL,253,500,4.3,figure_digitized_approx,thesis_figure_5_4
+UFSD-K1,100pct_EoL,253,525,4.5,figure_digitized_approx,thesis_figure_5_4
+UFSD-K1,100pct_EoL,253,550,4.9,figure_digitized_approx,thesis_figure_5_4
+UFSD-K1,100pct_EoL,253,590,6.3,table_5_1_exact,thesis_table_5_1_and_figure_5_4

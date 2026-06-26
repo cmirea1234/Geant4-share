@@ -1,0 +1,27 @@
+# build/cache
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+
+# binaries / objects
+*.o
+*.so
+*.a
+*.exe
+
+# Geant4 / ROOT outputs
+*.root
+*.log
+*.tmp
+
+# TCAD heavy raw/conversion files
+*.tdr
+*.grd
+*.dat
+
+# Python/cache/editor
+__pycache__/
+*.pyc
+.vscode/
+.DS_Store

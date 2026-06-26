@@ -1,0 +1,9 @@
+V4.3 n590 operating-map export
+rows = 1836
+temperature_K = 300.0
+bias_V = -450.0
+field_min_V_per_cm = 84.979213418498816
+field_max_V_per_cm = 381182.90197272587
+eAlpha_max_cm-1 = 32700.76533736389
+hAlpha_max_cm-1 = 4838.5494272935312
+electric_field_vector_max_abs_error = 1.7462298274040222e-10

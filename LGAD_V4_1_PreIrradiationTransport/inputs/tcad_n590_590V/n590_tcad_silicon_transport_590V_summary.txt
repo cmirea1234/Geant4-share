@@ -1,0 +1,20 @@
+TCAD n590 590 V Silicon_1 transport export summary
+rows = 1836
+temperature_K = 300
+anode_bias_V = -590
+cathode_bias_V = 0
+mobility_model = DopingDependence + HighFieldSaturation(GradQuasiFermi) + Enormal(Lombardi)
+avalanche_model = Okuto
+eMobility_min = 26.990857266618882
+eMobility_max = 336.34692816129888
+hMobility_min = 20.937393424223799
+hMobility_max = 182.34082746127069
+eVelocity_min = 4.3686324975459909
+eVelocity_max = 11971137.29593697
+hVelocity_min = 73.375234610660115
+hVelocity_max = 8233846.8089845991
+
+Caution: eVelocity/hVelocity are DC device-solution quantities.
+They are exported for inspection and must not automatically be
+treated as test-charge drift speeds without validating their
+definition against the Sentaurus model and quasi-Fermi gradients.

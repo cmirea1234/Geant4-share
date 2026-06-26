@@ -1,0 +1,8 @@
+source,temperature_K,bias_definition,bias_V,fluence_neq_cm-2,undamaged_charge_fC,damaged_charge_fC,damaged_to_undamaged_ratio,comparison_scope
+K1_thesis,253,respective_optimum_voltage,,2.5e15,25,6.3,0.252,measured_approximate_ratio_not_same_bias
+V5_n590,253,same_stable_bias,450,2.5e15,4.73099,1.05658,0.223331,independent_D5_over_D0
+V5_n590,253,same_stable_bias,470,2.5e15,5.22337,1.10803,0.212127,independent_D5_over_D0
+V5_n590,253,same_stable_bias,490,2.5e15,6.06534,1.19029,0.196231,independent_D5_over_D0
+V5_n590,253,same_stable_bias,510,2.5e15,6.68556,1.24908,0.186838,independent_D5_over_D0
+V5_n590,253,same_stable_bias,530,2.5e15,7.61239,1.33173,0.174942,independent_D5_over_D0
+V5_n590,253,same_stable_bias,550,2.5e15,8.46646,1.40370,0.165796,independent_D5_over_D0

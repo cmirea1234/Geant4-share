@@ -1,0 +1,7 @@
+name,gain_log_scale,beta_e_cm2_per_ns,beta_h_cm2_per_ns,charge_MPV_fC,charge_median_fC,status
+preirradiation_reference,1.0,0.0,0.0,5.318799327201558,6.143890459803432,sensitivity_scenario_not_predictive_tcad
+acceptor_sqrt_no_trapping,0.8321438137777889,0.0,0.0,3.6221541638845753,4.188011146162279,sensitivity_scenario_not_predictive_tcad
+acceptor_direct_no_trapping,0.6924633268086434,0.0,0.0,2.6311247186351787,3.0453494889933377,sensitivity_scenario_not_predictive_tcad
+hybrid_sqrt_nominal_trapping,0.8321438137777889,5e-16,7e-16,2.282973210655781,2.6405437322486964,sensitivity_scenario_not_predictive_tcad
+hybrid_direct_nominal_trapping,0.6924633268086434,5e-16,7e-16,1.6735804962436602,1.9389416558927464,sensitivity_scenario_not_predictive_tcad
+hybrid_direct_strong_trapping,0.6924633268086434,7e-16,1e-15,1.4181025807980236,1.6462235405420453,sensitivity_scenario_not_predictive_tcad

@@ -1,0 +1,4 @@
+sensor,state,temperature_K,bias_V,proton_energy_MeV,proton_fluence_cm-2,neq_fluence_cm-2,charge_fC,charge_uncertainty_fC,time_resolution_ps,time_uncertainty_ps,annealing,breakdown_V,provenance
+UFSD-K1,before_irradiation,253,230,0,0,0,25,,,,none,280,thesis_table_5_2_approximate_values
+UFSD-K1,100pct_EoL,253,590,15,4.9e14,2.5e15,6.3,0.1,34.3,1.2,80_min_at_60C,greater_than_600,thesis_tables_3_3_5_1_5_2
+UFSD-K1,200pct_EoL,253,525,15,9.6e14,5.0e15,,,,,two_steps_each_80_min_at_60C,,thesis_tables_3_3_5_1_signal_not_resolved

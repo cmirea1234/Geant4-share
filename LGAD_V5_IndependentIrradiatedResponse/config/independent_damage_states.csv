@@ -1,0 +1,8 @@
+state,fluence_neq_cm-2,active_acceptor_fraction,beta_e_cm2_per_ns,beta_h_cm2_per_ns,note
+D0_undamaged,0,1.0,0,0,pre-irradiation reference
+D1_low,5e14,0.9,5e-16,7e-16,independent low-damage benchmark
+D2_medium_low,1e15,0.8,5e-16,7e-16,independent benchmark
+D3_medium,1.5e15,0.7,5e-16,7e-16,independent benchmark
+D4_medium_high,2e15,0.6,5e-16,7e-16,independent benchmark
+D5_high,2.5e15,0.5,5e-16,7e-16,independent high-damage benchmark
+

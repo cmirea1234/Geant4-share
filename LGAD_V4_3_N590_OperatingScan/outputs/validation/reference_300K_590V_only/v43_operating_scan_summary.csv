@@ -1,0 +1,2 @@
+temperature_K,bias_V,map,max_field_V_per_cm,max_eAlpha_cm-1,max_hAlpha_cm-1,center_full_electron_gain,primary_charge_MPV_fC,full_collection_charge_MPV_fC,full_collection_charge_median_fC,effective_multiplication_median,electron_active_drift_median_ps,hole_active_drift_median_ps,events
+300.0,590.0,/tmp/v43_test_maps/n590_T300_V590_map.csv,392794.4332015836,36937.73516216301,5931.339783629533,9.869679718019297,0.5551401531233937,5.210835428124117,6.145745345757396,9.762457239425839,475.17766337276106,301.38095197837276,10000
